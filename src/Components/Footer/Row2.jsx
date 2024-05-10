@@ -7,7 +7,7 @@ export function Row2(){
         <StartFundBtn title = "Start a fundraiser" />
         <div className={styles.Row2D1}>
           <p> Pricing</p>
-          <p> Milaap Reviews</p>
+          <p> Reviews</p>
           <p> FAQs & Tips</p>
         </div>
         <div className = {styles.RowD2}>

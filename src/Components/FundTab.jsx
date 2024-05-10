@@ -32,13 +32,13 @@ const TAB = styled.div`
   text-align: center;
   font-weight: bold;
   border-radius: 8px;
-  box-shadow: 0 0 5px #9c3353;
-  background: ${(props) => (props.status ? "rgb(105 26 71)" : "white")};
+  box-shadow: 0 0 5px #00ba35;
+  background: ${(props) => (props.status ? "#00ba35" : "white")};
   color: ${(props) => (props.status ? "white" : "black")};
 
   &:hover {
     cursor: pointer;
-    box-shadow: 0 0 12px #9c3353;
+    box-shadow: 0 0 12px #00ba35;
   }
 
   img {
@@ -52,13 +52,13 @@ const WRAPPER = styled.div`
   width: 100%;
   color: gray;
   margin: 20px;
-  box-shadow: 0 0 5px #9c3353;
+  box-shadow: 0 0 5px #00ba35;
   padding-bottom: 20px;
   border-radius: 5px;
 
   &:hover {
     cursor: pointer;
-    box-shadow: 0 0 8px #9c3353;
+    box-shadow: 0 0 8px #00ba35;
   }
 
   img {
@@ -285,7 +285,7 @@ const FundDisplay = ({ usd, first, handleFirst, handleCardData }) => {
         <LoaderaWrap>
           <Loader
             type="ThreeDots"
-            color="rgb(156,51,83)"
+            color="#00ba35"
             width={100}
             height={100}
             timeout={500}

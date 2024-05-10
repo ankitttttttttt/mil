@@ -41,7 +41,7 @@ const IntroWrapper = styled.div`
     border-radius: 40px;
     border: none;
     color: white;
-    background-color: #9c3353;
+    background-color: #00ba35;
     font-size: 17px;
     letter-spacing:1px;
     font-weight:600;
@@ -122,7 +122,7 @@ const HeadBar = styled.div`
     height: 50px;
     font-size: 22px;
     border: none;
-    box-shadow: 0 0 10px -6px #9c3353;
+    box-shadow: 0 0 10px -6px #00ba35;
     border-radius: 5px;
     padding: 0 25px 0 25px;
     background-color: white;
@@ -153,7 +153,7 @@ const Intro = () => {
       </HeadBar>
       <Wrapper>
         <IntroWrapper>
-          <h1>Milaap</h1>
+          <h1>Betterfund</h1>
           <h3>Free Crowdfunding for India</h3>
           <p>Raise funds online for medical emergencies and social causes</p>
           <Link to="/Fund">

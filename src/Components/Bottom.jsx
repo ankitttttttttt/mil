@@ -9,7 +9,7 @@ const Wrapper = styled.div`
   font-family: sans-serif;
 
   a {
-    color: #9c3353;
+    color: #00ba35;
     font-size: 22px;
   }
 
@@ -39,7 +39,7 @@ const Wrapper = styled.div`
 
 const Call = styled.div`
   height: 100px;
-  background: rgb(156 51 83);
+  background: #00ba35;
   padding-top: 40px;
 
   div {
@@ -61,7 +61,7 @@ const Call = styled.div`
     border-radius: 40px;
     border: none;
     color: white;
-    background-color: #9c3353;
+    background-color: #00ba35;
     font-size: 120%;
   }
 
@@ -109,15 +109,13 @@ const Bottom = () => {
         <IconLine>
           <div></div>
 
-          <img src={rhombus2} alt="" />
-          <img src={rhombus} alt="" />
-          <img src={rhombus2} alt="" />
+    
 
           <div></div>
         </IconLine>
         <p>
           Medical treatments are expensive. They can exhaust your insurance and
-          savings. With Milaap, you receive timely help to pay medical bills.
+          savings. With Betterfund, you receive timely help to pay medical bills.
           Here’s how:
         </p>
       </Wrapper>
@@ -129,13 +127,9 @@ const Bottom = () => {
       </Call>
 
       <Feed>
-        <p>What people are saying about Milaap</p>
+        <p>What people are saying about Betterfund</p>
         <IconLine>
           <div></div>
-
-          <img src={rhombus2} alt="" />
-          <img src={rhombus} alt="" />
-          <img src={rhombus2} alt="" />
 
           <div></div>
         </IconLine>

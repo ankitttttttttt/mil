@@ -16,7 +16,7 @@ function Lform({handleLoggedIn}) {
               />
             </a>
           </div>
-          <h4>Welcome to Milaap,</h4>
+          <h4>Welcome to Betterfund,</h4>
           <p>India’s largest crowdfunding site</p>
         </div>
         <div>
@@ -26,12 +26,12 @@ function Lform({handleLoggedIn}) {
             <button>Google</button>
           </div>
           <LoginForm handleLoggedIn={(i)=>handleLoggedIn(i)}/>
-          <p style={{ color: "#9c3353", marginTop: "30px" }}>
+          <p style={{ color: "#00ba35", marginTop: "30px" }}>
             Forgot Password?
           </p>
           <div>
             <p>
-              New to Milaap? <span>Sign up now, it’s quick & free</span>
+              New to Betterfund? <span>Sign up now, it’s quick & free</span>
             </p>
             <Link to="/Register">
               <button className={styles.main_button}>Sign up</button>

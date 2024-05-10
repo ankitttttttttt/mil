@@ -35,8 +35,8 @@ export function Navbar({ handleUsd, usd, logged, handleLoggedIn }) {
       <div className="NavBar-leftGrid">
         <Link to = '/' onClick = {()=>setActive('')}>
           <img
-            src="https://assets.milaap.org/assets/milaap-logo-tiny-4d3dbc4e55c2aaec351f0f376329c624236c4d6266b910f472684e70603f600d.png"
-            alt="logo.png"
+            src="https://cdn.dribbble.com/users/5631996/screenshots/20519631/media/cc9ce7ccb1665d6226269aa8452b0ea8.jpg"
+            height="30"
           />
         </Link>
 

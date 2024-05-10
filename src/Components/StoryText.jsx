@@ -109,10 +109,10 @@ const StoryText = () => {
         </Button>
         <Story>
           <p className="title">
-            Milaap is an online crowdfunding platform that enables anyone across
+            Betterfund is an online crowdfunding platform that enables anyone across
             India to raise funds for healthcare, education, sports, disaster
             relief and other personal causes, with great ease. Founded in 2010
-            by a team of young and passionate entrepreneurs, Milaap has
+            by a team of young and passionate entrepreneurs, Betterfund has
             pioneered the development of person to person giving in India.
           </p>
           <p className="desc">
@@ -131,11 +131,6 @@ const StoryText = () => {
             family and communities at a time when a significant amount of money
             is required to deal with urgent medical crises.
           </p>
-          <img
-            className="img"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNUebvd-EZxYPCKV2pSmquTvjK5Ed48zFrQ&usqp=CAU"
-            alt=""
-          />
         </Story>
         <Info>
           <p>

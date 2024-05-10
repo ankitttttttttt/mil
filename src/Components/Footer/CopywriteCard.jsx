@@ -9,7 +9,7 @@ export function CopywriteCard() {
           {" "}
           <p>Security & Privacy</p>
           <p> Conditions of use</p>
-          <p> © 2010-2021 milaap.org.All rights reserved. </p>
+          <p> © 2010-2021 betterfund.org.All rights reserved. </p>
         </div>
       </div>
     );

@@ -4,7 +4,7 @@ export function Row3() {
   return (
     <>
       <div className={styles.Row3D1}>
-        <h5>Milaap</h5>
+        <h5>Betterfund</h5>
         <p> About us</p>
         <p> Press & Media</p>
         <p> Team </p>
@@ -15,9 +15,7 @@ export function Row3() {
         <h5> Indian office address </h5>
         <p>
           {" "}
-          Milaap Social ventures India Pvt. Ltd. ClayWorks Create - building,
-          11th KM Create Campus, Arakere Bannerghatta Rd, Bangalore, Karnataka,
-          India, 560076
+          Dharamshala
         </p>
         <h5> Supported by</h5>
         <div className={styles.footerImages}>

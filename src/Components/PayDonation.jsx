@@ -243,7 +243,7 @@ const PayDonation = ({ cardData, handleFirst, update, handleUpdate }) => {
               fontWeight: "500",
             }}
             progressColor="limegreen"
-            bgColor="rgba(218, 218, 218, 0.568)"
+            bgColor="#00ba35"
           />
 
           <div style={{ marginLeft: "60px" }}>

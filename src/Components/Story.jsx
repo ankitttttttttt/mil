@@ -200,7 +200,7 @@ const Story = ({ cardData, update }) => {
     <>
       <WRAPPER>
         <p className="fee">
-          Milaap will not charge any fee on your donation to this campaign.
+          Betterfund will not charge any fee on your donation to this campaign.
         </p>
 
         <h2>{cardData.title}</h2>
@@ -243,7 +243,6 @@ const Story = ({ cardData, update }) => {
         <Creator>
           <div className="card">
             <img
-              src="https://images.milaap.org/milaap/image/upload/v1578828850/production/images/user/2304965/tuf_icon_1578827491.jpg?crop=faces&format=jpg&height=50&mode=crop&width=50"
               alt=""
             />
             <div>

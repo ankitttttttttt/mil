@@ -12,13 +12,13 @@ const NofeeWrapper = styled.div`
   z-index: 2;
   margin-left: 150px;
   padding-right: 20px;
-  box-shadow: 1px 2px 4px -4px #9c3353;
+  box-shadow: 1px 2px 4px -4px #00ba35;
   display: flex;
   justify-content: space-between;
   vertical-align: middle;
   background-color: #fbf2f5;
   border-radius: 5px;
-  border-left: 7px solid #9c3353;
+  border-left: 7px solid #00ba35;
 
   div {
     display:grid;
@@ -43,7 +43,7 @@ const NofeeWrapper = styled.div`
   p {
     font-size: 50px;
     font-weight: bold;
-    color: #9c3353;
+    color: #00ba35;
     margin: 5px 0 10px 0;
   }
 `;
@@ -70,9 +70,9 @@ const FORM = styled.form`
     width: 90%;
     height: 80%;
     margin-top: 0px;
-    border: 1px solid #9c3353;
+    border: 1px solid #00ba35;
     border-radius: 40px 0 0 40px;
-    box-shadow: 0 0 4px #9c3353;
+    box-shadow: 0 0 4px #00ba35;
     font-size: 18px;
     padding-left: 10px;
   }
@@ -88,7 +88,7 @@ const FORM = styled.form`
   button {
     width: 8%;
     height: 83%;
-    background-color: #9c3353;
+    background-color: #00ba35;
     border: none;
     border-radius: 0 40px 40px 0;
     align-items: center;
@@ -133,7 +133,7 @@ const Search = () => {
         <p>0%</p>
       </NofeeWrapper>
       <Wrapper>
-        <p>Thousands are fundraising online on Milaap</p>
+        <p>Thousands are fundraising online on Betterfund</p>
         <IconLine>
           <div></div>
 

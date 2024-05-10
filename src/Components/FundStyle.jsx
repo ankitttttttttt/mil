@@ -24,7 +24,7 @@ export const Funds = styled.div`
   & > div:nth-child(1) > h4 {
     margin-top: 1%;
     margin-bottom: 0%;
-    color: #9c3353;
+    color: #00ba35;
   }
   & > div:nth-child(1) > p {
     margin-top: 1.5%;
@@ -34,7 +34,7 @@ export const Funds = styled.div`
   }
 
   & > div:nth-child(1) > div {
-    background-color: #9c3353;
+    background-color: #00ba35;
     padding: 20px 0px;
     text-align: center;
     border-radius: 50%;

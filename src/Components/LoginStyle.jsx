@@ -24,7 +24,7 @@ export const Login = styled.div`
   & > div:nth-child(1) > h4 {
     margin-top: 1%;
     margin-bottom: 0%;
-    color: #9c3353;
+    color: #00ba35;
   }
   & > div:nth-child(1) > p {
     margin-top: 1.5%;
@@ -34,7 +34,7 @@ export const Login = styled.div`
   }
 
   & > div:nth-child(1) > div {
-    background-color: #9c3353;
+    background-color: #00ba35;
     padding: 20px 0px;
     text-align: center;
     border-radius: 50%;
@@ -71,13 +71,13 @@ export const Login = styled.div`
     justify-content: center;
   }
   & > div:nth-child(2) > div > button {
-    background-color: #9c3353;
+    background-color: #00ba35;
     color: white;
     font-size: 15px;
     width: 12%;
     text-align: center;
     height: 40px;
-    border: 1px solid #9c3353;
+    border: 1px solid #00ba35;
     border-radius: 20px;
     margin-left: 3%;
   }

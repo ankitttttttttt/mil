@@ -24,7 +24,7 @@ function FundForm({ handleFirst }) {
       "https://bharadwaj-bhat-json-database.herokuapp.com/funds",
       {
         created: created,
-        url: "https://images.milaap.org/milaap/image/upload/v1619611080/production/images/campaign/282210/Milaap-banner_cixopj_1619611084.jpg?crop=faces&format=jpg&height=452&mode=crop&width=603",
+        url: "https://cdn.dribbble.com/users/5631996/screenshots/20519631/media/cc9ce7ccb1665d6226269aa8452b0ea8.jpg",
         des: des,
         target: amt,
         raised: 0,
